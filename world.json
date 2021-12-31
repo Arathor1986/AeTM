@@ -1,0 +1,21 @@
+{
+  "name": "aventuras-en-la-tierra-media",
+  "title": "Aventuras en la Tierra Media",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.238",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.6"
+}
